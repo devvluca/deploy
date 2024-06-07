@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Luca Silva",
+      "email": "luca.silva@email.com",
+      "phone": "(11) 98765-4321",
+      "position": "Analista de Vendas",
+      "department": "Vendas",
+      "salary": 5500.00,
+      "hireDate": "2022-03-10"
+    },
+    {
+      "id": 2,
+      "name": "Igor Oliveira",
+      "email": "igor.oliveira@email.com",
+      "phone": "(11) 91234-5678",
+      "position": "Desenvolvedor Front-end",
+      "department": "Tecnologia da Informação",
+      "salary": 6500.00,
+      "hireDate": "2021-08-15"
+    },
+    {
+      "id": 3,
+      "name": "Nicolas Santos",
+      "email": "nicolas.santos@email.com",
+      "phone": "(11) 92345-6789",
+      "position": "Gerente de Projetos",
+      "department": "Tecnologia da Informação",
+      "salary": 8500.00,
+      "hireDate": "2020-11-20"
+    },
+    {
+      "id": 4,
+      "name": "Miguel Costa",
+      "email": "miguel.costa@email.com",
+      "phone": "(11) 98765-4321",
+      "position": "Analista de Marketing",
+      "department": "Marketing",
+      "salary": 5000.00,
+      "hireDate": "2023-01-05"
+    },
+    {
+      "id": 5,
+      "name": "João Rodrigues",
+      "email": "joao.rodrigues@email.com",
+      "phone": "(11) 97654-3210",
+      "position": "Analista Financeiro",
+      "department": "Financeiro",
+      "salary": 6000.00,
+      "hireDate": "2022-06-25"
+    }
+  ]
+  
